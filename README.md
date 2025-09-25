@@ -36,14 +36,11 @@ Berfokus pada pembuatan aplikasi yang **efektif, modern, dan user-friendly** den
 
 <div align="center">
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinadisuryanugraha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
-  <!-- Streak -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kevinadisuryanugraha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadisuryanugraha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinadisuryanugraha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kevinadisuryanugraha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadisuryanugraha&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
