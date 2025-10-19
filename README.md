@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Kevin Adisurya Nugraha
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-PHP%2FTS-brightgreen?style=for-the-badge&logo=php" alt="Full-Stack Developer Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=kevinadisuryanugraha&color=blue" alt="Profile views">
-</p>
-
 ## 💻 Full-Stack Developer | 💡 System Integrator | 🎨 UI/UX Enthusiast
 
 I am a highly motivated Full-Stack Developer and Computer Science student specializing in building **effective, modern, and user-friendly web applications**. I focus on **database management, clean code architecture (MVC), and responsive UI/UX design**. My passion lies in leveraging PHP frameworks like **Laravel** to deliver performant and maintainable solutions. I am a lifelong learner dedicated to continuous innovation.
@@ -54,11 +49,6 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 
 ## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=kevinadisuryanugraha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
