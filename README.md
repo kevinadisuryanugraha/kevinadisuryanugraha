@@ -32,7 +32,7 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 
 ## 📊 GitHub Stats & Dynamic Activity
 
-![snake gif](https://github.com/kevinadisuryanugraha/kevinadisuryanugraha/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/kevinadisuryanugraha/kevinadisuryanugraha/blob/output/github-contribution-grid-snake.gif)
 
 <br>
 
