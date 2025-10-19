@@ -1,12 +1,3 @@
-Tentu, Kevin\! Memiliki *profile* GitHub yang profesional dan menarik adalah aset besar. Saya akan bantu Anda meng-*upgrade* deskripsi profil Anda ke Bahasa Inggris yang kuat, ringkas, dan profesional.
-
-Berikut adalah versi revisi *README.md* Anda:
-
------
-
-# 🚀 Professional GitHub README Upgrade (English Version)
-
-```markdown
 # 👋 Hi, I'm Kevin Adisurya Nugraha
 
 💻 **Full-Stack Developer** | 💡 **System Integrator** | 🎨 **UI/UX Enthusiast**
@@ -86,5 +77,3 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kevinadisuryanugraha&icon=0&color=0)](https://visitcount.itsvg.in)
-
-```
