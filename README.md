@@ -1,8 +1,21 @@
 # 👋 Hi, I'm Kevin Adisurya Nugraha
 
-💻 **Full-Stack Developer** | 💡 **System Integrator** | 🎨 **UI/UX Enthusiast**
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-PHP%2FTS-brightgreen?style=for-the-badge&logo=php" alt="Full-Stack Developer Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=kevinadisuryanugraha&color=blue" alt="Profile views">
+</p>
+
+## 💻 Full-Stack Developer | 💡 System Integrator | 🎨 UI/UX Enthusiast
 
 I am a highly motivated Full-Stack Developer and Computer Science student specializing in building **effective, modern, and user-friendly web applications**. I focus on **database management, clean code architecture (MVC), and responsive UI/UX design**. My passion lies in leveraging PHP frameworks like **Laravel** to deliver performant and maintainable solutions. I am a lifelong learner dedicated to continuous innovation.
+
+---
+
+## 🔥 Currently Working On...
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9148FF&center=true&vCenter=true&width=435&lines=Mastering+Laravel+12;Exploring+Next.js+%26+TypeScript;Building+Scalable+Web+Solutions;Preparing+for+Interview+Success!" alt="Typing Animation" />
+</div>
 
 ---
 
@@ -16,63 +29,36 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 ## 🛠 Tech Stack (Core Competencies)
 
 <div align='center'>
-
-**Backend & Database**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Frontend & Styling**
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-
-**Tools & Version Control**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Design & UI/UX**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,sqlite,tailwind,bootstrap,js,git,github,vercel,figma" />
 </div>
+<br>
 
 ---
 
-## 🚀 Key Achievements & Focus
-
-- **Certified Competency:** Hold two national **BNSP Certifications** (Junior Coder & Web Programming).
-- **Modern Stack:** Proficient in the latest **Laravel 12** and **Tailwind CSS** implementations.
-- **Project Experience:** 6 months of professional experience building real-world applications (e.g., custom management systems and e-commerce platforms).
-- **Education:** Currently pursuing a **Computer Science S1 Degree**.
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Dynamic Activity
 
 <div align="center">
+  <img src="https://github.com/kevinadisuryanugraha/kevinadisuryanugraha/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</div>
+<br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinadisuryanugraha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kevinadisuryanugraha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadisuryanugraha&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinadisuryanugraha&show_icons=true&theme=vue-dark&title_color=38b2ac&icon_color=38b2ac&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinadisuryanugraha&layout=compact&theme=vue-dark&title_color=38b2ac&icon_color=38b2ac&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=kevinadisuryanugraha&theme=vue-dark&ring=38b2ac&fire=38b2ac&currStreakLabel=38b2ac&sideLabels=38b2ac&sideNums=38b2ac&date_color=ffffff&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
----
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=kevinadisuryanugraha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
