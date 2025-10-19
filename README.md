@@ -24,7 +24,7 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 ## 🛠 Tech Stack (Core Competencies)
 
 <div align='center'>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,sqlite,tailwind,bootstrap,js,git,github,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,tailwind,bootstrap,js,git,github,vercel,figma" />
 </div>
 <br>
 
@@ -33,7 +33,7 @@ I am a highly motivated Full-Stack Developer and Computer Science student specia
 ## 📊 GitHub Stats & Dynamic Activity
 
 <div align="center">
-  <img src="https://github.com/kevinadisuryanugraha/kevinadisuryanugraha/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/kevinadisuryanugraha/kevinadisuryanugraha/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </div>
 <br>
 
